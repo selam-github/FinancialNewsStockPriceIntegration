@@ -1,0 +1,4 @@
+This project involves  on detailed analysis of financial news data to discover correlations between news sentiment and stock market movements.
+start this project by creating github repository ,next clone the remote repository to my local machine next navigate to the repository.                                                     
+ git clone  https://github.com/selam-github/FinancialNewsStockPriceIntegration.
+  git cd                                                                                                                      FinancialNewsStockPriceIntegration                                                                                                    

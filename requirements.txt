@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+nltk
+pytest
+talib
+yfinance
